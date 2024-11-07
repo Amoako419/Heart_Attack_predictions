@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069159811060",
+    "project_id": "segnclassauth",
+    "storage_bucket": "segnclassauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069159811060:android:4e93bf55a31d6fe1105ba1",
+        "android_client_info": {
+          "package_name": "com.example.my_tflit_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeYzF6_H9u1M-OeRr_qetigVkuuIQfsb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
